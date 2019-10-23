@@ -1,0 +1,7 @@
+template< typename T >
+
+template< typename InputType >
+
+template< class InputType >
+
+template< class InputType, typename OutputType>

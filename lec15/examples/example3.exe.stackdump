@@ -1,0 +1,10 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=0040122B
+eax=00000003 ebx=00000004 ecx=0023EF00 edx=00000000 esi=00401150 edi=610E21A0
+ebp=0023EF18 esp=0023EE70 program=c:\Documents and Settings\rahatlou\My Documents\Teaching\Programmazione++\2006-06-26\examples\example3.exe, pid 5972, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0023EF18  0040122B  (00000001, 61159188, 004A0090, 7C919AF0)
+0023EFD8  61004DD2  (0023EFF0, 00251138, 7C91056D, 0023F99C)
+0023FF88  6100594F  (00000000, 00000000, 00000000, 00000000)
+End of stack trace
